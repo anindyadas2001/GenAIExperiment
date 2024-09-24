@@ -1,5 +1,5 @@
 # This repo contains ML reports realated to a conservation over email
-`future plan is to make it into an ai`
+`future prospect is to make it into an ai`
 ---
 ## Installation Guide
 
