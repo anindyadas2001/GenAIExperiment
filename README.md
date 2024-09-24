@@ -1,2 +1,1 @@
-# GenAIExperiment
-Tinkering with Various LLMs
+# This repo contains reports realated to a conservation.
