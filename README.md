@@ -1,6 +1,9 @@
 # This repo contains ML reports realated to a conservation over email
-`future prospect is to make it into an ai`
+```
+אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
+```
 ---
+`with enough context : future prospect is to make it into an ai`
 ## Installation Guide
 
 To get started with the Jupyter notebook, you'll need to install several libraries and tools. Follow these steps to set up your environment:
