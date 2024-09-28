@@ -1,4 +1,4 @@
-# As of 27th Sept 2024, this repository contains reports realated to a conservation over email between two humans.
+# As of 27th Sept 2024, this repository contains ML reports realated to a conservation over email between two humans.
 
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
