@@ -3,7 +3,7 @@
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
-### files having V
+### reffer to TNVv1 and TNVv2 for details
 ----
 ## Installation Guide
 
