@@ -1,9 +1,5 @@
 # As of 27th Sept 2024, this repository contains reports realated to a conservation over email between two humans.
-```
-אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
-```
----
-`with enough context : future prospect is to make it into an ai`
+` אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא  `
 ---
 ## Installation Guide
 
@@ -75,3 +71,4 @@ Ensure you have Python installed. You can download Python from the [official Pyt
 - **Permission Issues**: If you have permission issues, try running the installation commands with `sudo` on Unix-based systems or ensure you have the appropriate permissions.
 
 ---
+`with enough context : future prospect is to make it into an ai`
