@@ -3,7 +3,7 @@
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
-### reffer to TNVv1 and TNVv2 for details
+### reffer to TNVv2.ipynb files for latest details
 ----
 ## Installation Guide
 
