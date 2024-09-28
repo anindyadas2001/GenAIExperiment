@@ -1,15 +1,14 @@
 # As of 27th Sept 2024, this repository contains reports realated to a conservation over email between two humans.
----
 
----
+``` Hebrew
+אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
+```
+
 ----
 ## Installation Guide
 
 To get started with the Jupyter notebook, you'll need to install several libraries and tools. Follow these steps to set up your environment:
 
-``` Hebrew
-אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
-```
 ## Prerequisites
 
 Ensure you have Python installed. You can download Python from the [official Python website](https://www.python.org/downloads/).
