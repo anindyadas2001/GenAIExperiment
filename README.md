@@ -1,5 +1,5 @@
 # As of 27th Sept 2024, this repository contains reports realated to a conservation over email between two humans.
-` אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא  `
+` אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא  `moto:
 ---
 ## Installation Guide
 
