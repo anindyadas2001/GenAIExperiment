@@ -3,7 +3,7 @@
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
-### reffer to [TNVv2.ipynb](https://github.com/anindyadas2001/GenAIExperiment/blob/a340eff0179a6681e64b9da45159edc448fc7b97/TNVv2.ipynb) files for latest details
+### Scroll down to the bkttom of [TNVv2.ipynb](https://github.com/anindyadas2001/GenAIExperiment/blob/a340eff0179a6681e64b9da45159edc448fc7b97/TNVv2.ipynb) To see the thought network analysis report based on the chat.
 ----
 ## Installation Guide
 
