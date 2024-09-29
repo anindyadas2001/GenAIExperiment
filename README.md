@@ -1,10 +1,14 @@
 # As of 27th Sept 2024, this repository contains ML reports related to a [Text Chat](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/Initial%20Context/Gmail%20-%20_%20Last%20note%20from%20Anindya%20_.pdf) over email between two humans.
-
+---
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
+
+`with enough context : future prospect is to make it into an ai`
+
+---
 ### Scroll down to the bottom of [Version 2 of the Report](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/MLReport/TNVv2.ipynb) To see the thought network analysis report based on the chat.
-----
+---
 
 ## Prerequisites
 
@@ -27,7 +31,3 @@
 
    # Note: `diagrams` may require additional setup for custom components.
    ```
-
-
----
-`with enough context : future prospect is to make it into an ai`
