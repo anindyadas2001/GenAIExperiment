@@ -1,4 +1,4 @@
-# As of 27th Sept 2024, this repository contains ML reports related to a [Text Chat](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/Initial%20Context/Gmail%20-%20_%20Last%20note%20from%20Anindya%20_.pdf) over email between two humans.
+# As of 27th Sept 2024, this repository contains ML reports related to a [📧](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/Initial%20Context/Gmail%20-%20_%20Last%20note%20from%20Anindya%20_.pdf) between two humans.
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
