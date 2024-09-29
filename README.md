@@ -4,10 +4,10 @@
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
 
+### Scroll down to the bottom of [Version 2 of the Report](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/MLReport/TNVv2.ipynb) To see the thought network analysis report based on the chat.
+
 `with enough context : future prospect is to make it into an ai`
 
----
-### Scroll down to the bottom of [Version 2 of the Report](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/MLReport/TNVv2.ipynb) To see the thought network analysis report based on the chat.
 ---
 
 ## Prerequisites
