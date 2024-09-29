@@ -1,13 +1,10 @@
-# As of 27th Sept 2024, this repository contains ML reports related to a [conservation]() over email between two humans.
+# As of 27th Sept 2024, this repository contains ML reports related to a [Text Chat](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/Initial%20Context/Gmail%20-%20_%20Last%20note%20from%20Anindya%20_.pdf) over email between two humans.
 
 ``` Hebrew
 אם אי פעם אשנא אותך, דע שבחרתי למות לפני שהרשיתי לעצמי לשנוא
 ```
-### Scroll down to the bottom of [Version 2 of the Report]() To see the thought network analysis report based on the chat.
+### Scroll down to the bottom of [Version 2 of the Report](https://github.com/anindyadas2001/GenAIExperiment/blob/4586c0c225bb0bc05dbebed42ba686e6733d00fd/MLReport/TNVv2.ipynb) To see the thought network analysis report based on the chat.
 ----
-## Installation Guide
-
-To get started with the Jupyter notebook, you'll need to install several libraries and tools. Follow these steps to set up your environment:
 
 ## Prerequisites
 
@@ -16,28 +13,24 @@ Ensure you have Python installed. You can download Python from the [official Pyt
 
 - **Install Required Libraries**
 
-   You can install all the required libraries using `pip`. Run the following command to install them:
+  In terminal, run the following:
+  
 
    ```bash
-   pip install numpy networkx matplotlib diagrams
-   ```
+   # Update package list
+   sudo apt update
 
-   Note: `diagrams` may require additional setup for custom components.
----
-- **Install Jupyter Notebook**
+   # Install Python 3 and pip
+   sudo apt install -y python3 python3-pip
 
-   To run the Jupyter notebook, you need to install Jupyter:
-
-   ```bash
-   pip install notebook
-   ```
-
-- **Install Additional Tools**
-
-   Some functionalities in the notebook require additional tools. Install them using:
-
-   ```bash
+   # Install Jupyter Notebook
+   pip3 install jupyter
+   pip3 install numpy networkx matplotlib diagrams
    pip install subprocess
+
+   # Note: `diagrams` may require additional setup for custom components.
    ```
+
+
 ---
 `with enough context : future prospect is to make it into an ai`
