@@ -8,9 +8,6 @@
 
 ## Prerequisites
 
-Ensure you have Python installed. You can download Python from the [official Python website](https://www.python.org/downloads/).
-
-
 - **Install Required Libraries**
 
   In terminal, run the following:
